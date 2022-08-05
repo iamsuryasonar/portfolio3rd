@@ -15,9 +15,14 @@
         </a>
       </div>
       <div class="link_cards">
-        <div class="link_card" v-for="(link, id) in links" :key="id">
-          <a :href="link.url" class="link_title">{{ link.title }}</a>
-        </div>
+        <a
+          :href="link.url"
+          class="link_card"
+          v-for="(link, id) in links"
+          :key="id"
+        >
+          <p class="link_title">{{ link.title }}</p>
+        </a>
       </div>
     </div>
   </div>
@@ -38,8 +43,13 @@ export default {
       links: [
         {
           id: "URLshare",
-          title: "URLshare",
+          title: "URLshare - a link sharing platform",
           url: "https://urlshare.netlify.app",
+        },
+        {
+          id: "resume",
+          title: "My Resume - updated on 15-May-2022",
+          url: "https://drive.google.com/file/d/13xR78QwjFNJzhtQ2hQru6aK0DxCEuNQE/view?usp=sharing",
         },
       ],
     };
