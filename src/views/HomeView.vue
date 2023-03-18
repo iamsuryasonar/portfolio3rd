@@ -6,7 +6,7 @@
       <p>I'm Surya Sonar</p>
     </div>
     <div class="profilepicture">
-      <img src="../assets/dp.jpg" alt="a picture of Surya Sonar" />
+      <img src="../assets/dp2.jpg" alt="a picture of Surya Sonar" />
     </div>
     <div class="contact-icons">
       <a class="iconcontact" :href="linkedin">
