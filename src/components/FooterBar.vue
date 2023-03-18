@@ -1,6 +1,6 @@
 <template>
   <div class="footer_main">
-    <p>2022 © All right Reserved</p>
+    <p>2023 © All right Reserved</p>
     <p>Surya Sonar</p>
     <div class="contact-icons">
       <a class="iconcontact" :href="linkedin">

@@ -21,7 +21,7 @@
     </div>
     <div class="aboutme">
       <p>
-        &emsp; I am a software developer at Bevy Insight, where I am dedicated to enhancing my skills in data structure and problem-solving by regularly participating in competitive programming platforms. I strive to apply the knowledge gained from these experiences to develop practical applications that benefit our clients.
+        &emsp; I am a software developer at <span><a href="https://bevyinsight.in/">Bevy Insight</a></span>, where I am dedicated to enhancing my skills in data structure and problem-solving by regularly participating in competitive programming platforms. I strive to apply the knowledge gained from these experiences to develop practical applications that benefit our clients.
       </p>
     </div>
   </div>
