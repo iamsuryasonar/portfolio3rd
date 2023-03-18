@@ -28,6 +28,7 @@ import css3 from "@/assets/dev_icons/css3.svg";
 import dart from "@/assets/dev_icons/dart.svg";
 import firebase from "@/assets/dev_icons/firebase.svg";
 import figma from "@/assets/dev_icons/figma.svg";
+import react from "@/assets/dev_icons/react.svg";
 import flutter from "@/assets/dev_icons/flutter.svg";
 import github from "@/assets/dev_icons/github.svg";
 import nodejs from "@/assets/dev_icons/nodejs.svg";
@@ -100,6 +101,10 @@ export default {
         {
           id: "figma",
           image: figma,
+        },
+        {
+          id: "react",
+          image: react,
         },
       ],
     };

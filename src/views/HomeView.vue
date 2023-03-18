@@ -21,10 +21,7 @@
     </div>
     <div class="aboutme">
       <p>
-        &emsp; Currently pursuing Master of Computer Application at Cotton
-        University and improving data structure as well as problem solving
-        skills on competitive platforms and implementing those knowledge on
-        developing real life applications.
+        &emsp; I am a software developer at Bevy Insight, where I am dedicated to enhancing my skills in data structure and problem-solving by regularly participating in competitive programming platforms. I strive to apply the knowledge gained from these experiences to develop practical applications that benefit our clients.
       </p>
     </div>
   </div>
