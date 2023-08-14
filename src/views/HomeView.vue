@@ -21,7 +21,7 @@
     </div>
     <div class="aboutme">
       <p>
-        &emsp; I am a software developer at <span><a href="https://bevyinsight.in/">Bevy Insight</a></span>, where I am dedicated to enhancing my skills in data structure and problem-solving by regularly participating in competitive programming platforms. I strive to apply the knowledge gained from these experiences to develop practical applications that benefit our clients.
+I'm a dedicated software developer with a passion for crafting elegant and efficient solutions. My journey in the world of code began with a curiosity to build and innovate. As a developer, I thrive on challenges and believe in continuous learning. I am currently focused on honing my data structure and algorithm skills, aiming to create even smarter and more optimized software.
       </p>
     </div>
   </div>
